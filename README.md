@@ -1,7 +1,7 @@
 # ImagineHack2023
 Members:
-Hamza (Leader)
-Hassan
-Danish
-Alister
-Abdallah
+- Hamza (Leader)
+- Hassan
+- Danish
+- Alister
+- Abdallah
